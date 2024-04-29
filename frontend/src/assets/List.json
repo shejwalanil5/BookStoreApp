@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum, dolor sit amet adipisicing elit.",
+        "price":20,
+        "category":"Enter",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":3,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":6,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":7,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":8,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":9,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    },
+    {
+        "id":10,
+        "name":"Sport Book",
+        "title":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714200411~exp=1714204011~hmac=1046e1d394d3f137ed46724cf940c35fb76744aeb2cb9de136769d6581a9e7c7&w=740"
+    }
+]
